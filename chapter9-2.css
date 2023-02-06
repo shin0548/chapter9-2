@@ -62,7 +62,7 @@ h3{
 
 footer{
   height: 50px;
-  background-color: #aaaaaa;
+  background-color: #aaa;
 }
 
 @media screen and (max-width: 768px) {
